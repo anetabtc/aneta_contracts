@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: playground-env
+Implementation-Version: 0.0.0-88-a781666a-SNAPSHOT
+Specification-Vendor: org.ergoplatform
+Specification-Title: playground-env
+Implementation-Vendor-Id: org.ergoplatform
+Specification-Version: 0.0.0-88-a781666a-SNAPSHOT
+Implementation-Vendor: org.ergoplatform
+

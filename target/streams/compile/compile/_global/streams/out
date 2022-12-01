@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/samsa/Documents/GitHub/contracts/src/main/scala/anetabtc/io/commands/TokensAmountCmd.scala:18:29: method getUnspentBoxesFor in trait BlockchainContext is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[0m[33mwarn[0m] [0m[0m            val boxes = ctx.getUnspentBoxesFor(address, 0, 100)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                            ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1522077286870
+Build-Jdk: 1.8.0_144
+Built-By: ron.ratovsky
+Bundle-Description: Sonatype helps open source projects to set up Maven 
+ repositories on https://oss.sonatype.org/
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.html
+Bundle-ManifestVersion: 2
+Bundle-Name: swagger-annotations
+Bundle-SymbolicName: io.swagger.core.v3.swagger-annotations
+Bundle-Version: 2.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: io.swagger.v3.oas.annotations;version="2.0.0";uses:="io.
+ swagger.v3.oas.annotations.enums,io.swagger.v3.oas.annotations.extensio
+ ns,io.swagger.v3.oas.annotations.info,io.swagger.v3.oas.annotations.med
+ ia,io.swagger.v3.oas.annotations.parameters,io.swagger.v3.oas.annotatio
+ ns.responses,io.swagger.v3.oas.annotations.security,io.swagger.v3.oas.a
+ nnotations.servers,io.swagger.v3.oas.annotations.tags",io.swagger.v3.oa
+ s.annotations.security;version="2.0.0";uses:="io.swagger.v3.oas.annotat
+ ions.enums,io.swagger.v3.oas.annotations.extensions",io.swagger.v3.oas.
+ annotations.callbacks;version="2.0.0";uses:="io.swagger.v3.oas.annotati
+ ons,io.swagger.v3.oas.annotations.extensions",io.swagger.v3.oas.annotat
+ ions.enums;version="2.0.0",io.swagger.v3.oas.annotations.responses;vers
+ ion="2.0.0";uses:="io.swagger.v3.oas.annotations.extensions,io.swagger.
+ v3.oas.annotations.headers,io.swagger.v3.oas.annotations.links,io.swagg
+ er.v3.oas.annotations.media",io.swagger.v3.oas.annotations.extensions;v
+ ersion="2.0.0",io.swagger.v3.oas.annotations.tags;version="2.0.0";uses:
+ ="io.swagger.v3.oas.annotations,io.swagger.v3.oas.annotations.extension
+ s",io.swagger.v3.oas.annotations.info;version="2.0.0";uses:="io.swagger
+ .v3.oas.annotations.extensions",io.swagger.v3.oas.annotations.links;ver
+ sion="2.0.0";uses:="io.swagger.v3.oas.annotations.extensions,io.swagger
+ .v3.oas.annotations.servers",io.swagger.v3.oas.annotations.headers;vers
+ ion="2.0.0";uses:="io.swagger.v3.oas.annotations.media",io.swagger.v3.o
+ as.annotations.parameters;version="2.0.0";uses:="io.swagger.v3.oas.anno
+ tations.extensions,io.swagger.v3.oas.annotations.media",io.swagger.v3.o
+ as.annotations.servers;version="2.0.0";uses:="io.swagger.v3.oas.annotat
+ ions.extensions",io.swagger.v3.oas.annotations.media;version="2.0.0";us
+ es:="io.swagger.v3.oas.annotations,io.swagger.v3.oas.annotations.extens
+ ions,io.swagger.v3.oas.annotations.headers"
+implementation-version: 2.0.0
+mode: development
+package: io.swagger
+Tool: Bnd-2.1.0.20130426-122213
+url: https://github.com/swagger-api/swagger-core/modules/swagger-annotat
+ ions

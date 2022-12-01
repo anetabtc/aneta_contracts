@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: dsinfo
+Implementation-Version: 0.4.0
+Specification-Vendor: org.bitbucket.inkytonik.dsinfo
+Specification-Title: dsinfo
+Implementation-Vendor-Id: org.bitbucket.inkytonik.dsinfo
+Specification-Version: 0.4.0
+Implementation-Vendor: org.bitbucket.inkytonik.dsinfo
+

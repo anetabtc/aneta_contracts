@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ergo-wallet
+Implementation-Version: 4.0.27
+Specification-Vendor: org.ergoplatform
+Specification-Title: ergo-wallet
+Implementation-Vendor-Id: org.ergoplatform
+Specification-Version: 4.0.27
+Implementation-URL: http://ergoplatform.org/
+Implementation-Vendor: org.ergoplatform
+

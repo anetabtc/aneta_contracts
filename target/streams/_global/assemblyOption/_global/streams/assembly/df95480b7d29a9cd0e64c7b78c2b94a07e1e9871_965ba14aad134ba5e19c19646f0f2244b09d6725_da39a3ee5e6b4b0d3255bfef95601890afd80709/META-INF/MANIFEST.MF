@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: core
+Implementation-Version: 0.8.0
+Specification-Vendor: org.spire-math
+Specification-Title: core
+Implementation-Vendor-Id: org.spire-math
+Specification-Version: 0.8.0
+Implementation-URL: http://github.com/non/debox
+Vcs-Release-Tag: v0.8.0
+Implementation-Vendor: org.spire-math
+Vcs-Release-Hash: f15097517f142acfc0e60e83d0e39da2ba81bec9
+

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: sigma-state
+Implementation-Version: 4.0.5
+Specification-Vendor: org.scorexfoundation
+Specification-Title: sigma-state
+Implementation-Vendor-Id: org.scorexfoundation
+Specification-Version: 4.0.5
+Implementation-URL: https://github.com/ScorexFoundation/sigmastate-int
+ erpreter
+Implementation-Vendor: org.scorexfoundation
+

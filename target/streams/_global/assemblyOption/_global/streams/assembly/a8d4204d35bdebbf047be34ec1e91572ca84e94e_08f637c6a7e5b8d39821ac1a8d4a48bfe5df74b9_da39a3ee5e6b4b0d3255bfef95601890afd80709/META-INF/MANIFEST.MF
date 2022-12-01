@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scorex-util
+Implementation-Version: 0.1.8
+Specification-Vendor: org.scorexfoundation
+Specification-Title: scorex-util
+Implementation-Vendor-Id: org.scorexfoundation
+Specification-Version: 0.1.8
+Implementation-URL: https://github.com/ScorexFoundation/scorex-util
+Implementation-Vendor: org.scorexfoundation
+

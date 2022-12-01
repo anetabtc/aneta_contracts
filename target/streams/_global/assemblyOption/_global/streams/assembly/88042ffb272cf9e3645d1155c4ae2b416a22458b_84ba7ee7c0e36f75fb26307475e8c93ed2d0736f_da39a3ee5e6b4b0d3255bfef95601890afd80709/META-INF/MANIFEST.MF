@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ergo-appkit
+Implementation-Version: 4.0.10
+Specification-Vendor: org.ergoplatform
+Specification-Title: ergo-appkit
+Implementation-Vendor-Id: org.ergoplatform
+Specification-Version: 4.0.10
+Implementation-URL: https://github.com/ergoplatform/ergo-appkit
+Implementation-Vendor: org.ergoplatform
+

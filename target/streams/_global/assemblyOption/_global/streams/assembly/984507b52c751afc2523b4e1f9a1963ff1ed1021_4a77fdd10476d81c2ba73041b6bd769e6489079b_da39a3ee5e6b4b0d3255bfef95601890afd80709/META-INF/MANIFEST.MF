@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scrypto
+Implementation-Version: 2.1.10
+Specification-Vendor: org.scorexfoundation
+Specification-Title: scrypto
+Implementation-Vendor-Id: org.scorexfoundation
+Specification-Version: 2.1.10
+Implementation-URL: https://github.com/input-output-hk/scrypto
+Implementation-Vendor: org.scorexfoundation
+

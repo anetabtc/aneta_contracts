@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: compiler
+Implementation-Version: 0.0.0-32-aaadbee1-SNAPSHOT
+Specification-Vendor: org.ergoplatform
+Specification-Title: compiler
+Implementation-Vendor-Id: org.ergoplatform
+Specification-Version: 0.0.0-32-aaadbee1-SNAPSHOT
+Implementation-URL: https://github.com/ergoplatform/ergo-scala-compile
+ r
+Implementation-Vendor: org.ergoplatform
+

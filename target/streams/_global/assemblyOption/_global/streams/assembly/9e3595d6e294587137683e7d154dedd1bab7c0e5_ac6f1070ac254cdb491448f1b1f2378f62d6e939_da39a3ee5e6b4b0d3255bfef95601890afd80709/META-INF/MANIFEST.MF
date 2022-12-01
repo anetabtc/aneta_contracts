@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: dsprofile
+Implementation-Version: 0.4.0
+Specification-Vendor: org.bitbucket.inkytonik.dsprofile
+Specification-Title: dsprofile
+Implementation-Vendor-Id: org.bitbucket.inkytonik.dsprofile
+Specification-Version: 0.4.0
+Implementation-Vendor: org.bitbucket.inkytonik.dsprofile
+

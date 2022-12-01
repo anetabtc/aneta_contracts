@@ -1,0 +1,19 @@
+{
+  "node": {
+    "nodeApi": {
+      "apiUrl": "https://ergonode-api.ergohost.io/",
+      "apiKey": "rX6aWNL6oHiaSN4XGrjwa8XBDyw6S9"
+    },
+    "wallet": {
+      "mnemonic": "daughter trim blood cherry wrap bounce surface few opinion size escape moral march swing sock",
+      "password": "",
+      "mnemonicPassword": ""
+    },
+    "networkType": "MAINNET"
+  },
+
+  "parameters": {
+    "addressIndex": 0,
+    "tokenId": "60da81069ae38c78bda38a738abcfb6c31b58d2269b25db596f5783b19f77690"
+  }
+}

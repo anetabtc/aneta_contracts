@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: kiama
+Implementation-Version: 2.1.0
+Specification-Vendor: org.bitbucket.inkytonik.kiama
+Specification-Title: kiama
+Implementation-Vendor-Id: org.bitbucket.inkytonik.kiama
+Specification-Version: 2.1.0
+Implementation-Vendor: org.bitbucket.inkytonik.kiama
+

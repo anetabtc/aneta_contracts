@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: macros
+Implementation-Version: 0.14.1
+Specification-Vendor: org.typelevel
+Specification-Title: macros
+Implementation-Vendor-Id: org.typelevel
+Specification-Version: 0.14.1
+Implementation-URL: http://spire-math.org
+Implementation-Vendor: org.typelevel
+
